@@ -1,9 +1,26 @@
 img {
-    width: 80%;
+    width: 30%;
+    display: block;
+    margin: 0 auto;
 }
 p {
     width: 80%;
 }
 a {
     font-size: 1.5em;
+}
+* {
+    border: 2px solid blue;
+}
+body {
+    text-align: center;
+}
+h1, p {
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+    
+}
+nav, footer {
+    text-align: center;
 }
