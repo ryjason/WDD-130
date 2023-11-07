@@ -207,6 +207,23 @@ nav {
     justify-content: space-around;
 }
 
+.blog-main{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.blog-post{
+    background-color: rgba(20,30,13, .7);
+    color:#d9c2a3;
+    border-radius: 10px;
+    padding: 1rem;
+    margin: .5rem 0;
+}
+.boat{
+    border-radius: 10px;
+    width: 100%;
+}
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
